@@ -8,4 +8,6 @@ public class F1_RandomStreamGenerator {
                 .create()
                 .ints(10, 0, 100).forEach(System.out::println);
     }
+
+
 }
